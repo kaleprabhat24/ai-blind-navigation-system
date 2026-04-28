@@ -40,6 +40,7 @@ streamlit run app.py
 🌐 Deployment
 
 This project is deployed using Streamlit Cloud for public access.
+https://ai-blind-navigation-system-8palztmei76tgjtubdhesa.streamlit.app/
 
 📊 Model Info
 Model: YOLOv8 custom trained
